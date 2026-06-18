@@ -1,0 +1,4 @@
+Model,Accuracy,Negative Precision,Negative Recall,Negative F1-score
+Naive Bayes,0.8520087124878993,0.81,0.21,0.33
+Logistic Regression,0.8754840271055179,0.76,0.42,0.55
+Linear SVM,0.8753630203291385,0.69,0.53,0.6
